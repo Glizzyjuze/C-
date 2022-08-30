@@ -1,0 +1,15 @@
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\bin\Debug\net6.0\Dota3.exe
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\bin\Debug\net6.0\Dota3.deps.json
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\bin\Debug\net6.0\Dota3.runtimeconfig.json
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\bin\Debug\net6.0\Dota3.dll
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\bin\Debug\net6.0\Dota3.pdb
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.csproj.AssemblyReference.cache
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.AssemblyInfoInputs.cache
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.AssemblyInfo.cs
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.csproj.CoreCompileInputs.cache
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.dll
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\refint\Dota3.dll
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.pdb
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\Dota3.genruntimeconfig.cache
+C:\Users\Hugo.zingmark\Desktop\C#\Dota3\Dota3\obj\Debug\net6.0\ref\Dota3.dll
